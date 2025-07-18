@@ -1,0 +1,17 @@
+node_modules/
+dist/
+coverage/
+
+# Logs
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Lock files
+package-lock.json
+yarn.lock
